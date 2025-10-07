@@ -49,4 +49,5 @@ ENV/
 
 # GitHub
 .specify/
+.github/
 specs/
